@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <h1>Header 1</h1>
+  <a href="http://www.thecomfycow.com"> 
+  <img src="http://www.thecomfycow.com/wp-content/uploads/2014/04/CC_TrolleyHop_BLOG-GRAPHICS-group.jpg" width="400" height="200"></a>
+  
+  <p>This is an un-ordered list</p>
+  <ul>
+    <li>Ice Cream</li>
+    <li>Cow</li>
+    <li>Milk</li>
+  </ul>
+  
+  <p>This is a numbered list</p>
+  <ol>
+    <li>Chocolate</li>
+    <li>Blueberry</li>
+    <ul>
+      <li>Blueberry Sprinkle</li>
+      <li>Blueberry Swirl</li>
+      <li>Blueberry Fudge</li>
+    </ul>
+    <li>Milk</li>
+  </ol>
+  
+   <p>This is a numbered list</p>
+  <dl>
+    <dt>Item 1 Description</dt>
+    <dd>Ice Cream</dd>
+    <dt>Item 2 Description</dt>
+    <dd>Ice Cream 2</dd>
+    <dt>Item 3 Description</dt>
+    <dd>Ice Cream 3</dd>
+  </dl>
+  
+  <table border ="1" style="font-family:Arial; font-size: 25px;">
+     <th style="color: white; background-color: blue;">Item</h2></th>
+      <td><b>Item</b></td>
+      <td>Item</td>
+      <td>Item</td>
+      <td>Item</td>
+      </tr>
+    
+      <tr style="font-family: verdana; background-color:orange">
+       <td>Item</td>
+       <td>Item</td>
+       <td>Item</td>
+       <td>Item</td>
+      </tr>
+             
+      <tr style="font-size:50">
+       <td>Item</td>
+       <td>Item</td>
+       <td>Item</td>
+       <td>Item</td>
+      </tr>
+  </table>
+
+
+<h1>Forms</h1>
+<p>This is a form</p>
+
+<form>
+  <p> What is your quest?: <input type="text" name="quest" id="questID"</p>
+  <p> What is your favorite color?: <input type="text" name="color"></p>
+  <p> What is the speed of a bird?: <input type="text" name="bird"</p>
+</form>
+
+
+<form>
+  <p>Input: <input type="checkbox" name="input"></p>
+  <p>Input: <input type="checkbox" name="input"></p>
+  <p>Input: <input type="checkbox" name="input"></p>
+  
+   <p>Input: <input type="radio" name="input"></p>
+   <p>Input: <input type="radio" name="input"></p>
+   <p>Input: <input type="radio" name="input"></p>
+  </form>
+
+<h1>Favorite Sport</h1>
+<p>Rollerblades</p>
+<form>
+ <p>Yes: <input type="radio" name="input"></p>
+</form>
+<p>Ice Skates</p>
+<form>
+ <p>Yes: <input type="radio" name="input"></p>
+</form>
+<p>Roller Skates</p>
+<form>
+ <p>Yes: <input type="radio" name="input"></p>
+</form>
+
+<h1>Forms</h1>
+<p>This is a form</p>
+
+<form>
+  <p>Input: 
+      <br>
+    <input type="text" name="input">
+ <input type="submit" value="Submit to email" id="jsSubmit">
+ </p>
+</form>
+
+</head>
+<body>
