@@ -42,42 +42,6 @@
       <td>Item</td>
       </tr>
     
-      <tr style="font-family: verdana; background-color:orange">
-       <td>Item</td>
-       <td>Item</td>
-       <td>Item</td>
-       <td>Item</td>
-      </tr>
-             
-      <tr style="font-size:50">
-       <td>Item</td>
-       <td>Item</td>
-       <td>Item</td>
-       <td>Item</td>
-      </tr>
-  </table>
-
-
-<h1>Forms</h1>
-<p>This is a form</p>
-
-<form>
-  <p> What is your quest?: <input type="text" name="quest" id="questID"</p>
-  <p> What is your favorite color?: <input type="text" name="color"></p>
-  <p> What is the speed of a bird?: <input type="text" name="bird"</p>
-</form>
-
-
-<form>
-  <p>Input: <input type="checkbox" name="input"></p>
-  <p>Input: <input type="checkbox" name="input"></p>
-  <p>Input: <input type="checkbox" name="input"></p>
-  
-   <p>Input: <input type="radio" name="input"></p>
-   <p>Input: <input type="radio" name="input"></p>
-   <p>Input: <input type="radio" name="input"></p>
-  </form>
-
 <h1>Favorite Sport</h1>
 <p>Rollerblades</p>
 <form>
