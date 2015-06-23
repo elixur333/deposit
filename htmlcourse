@@ -2,8 +2,8 @@
 <html>
 <head>
   <h1>Header 1</h1>
-  <a href="http://www.thecomfycow.com"> 
-  <img src="http://www.thecomfycow.com/wp-content/uploads/2014/04/CC_TrolleyHop_BLOG-GRAPHICS-group.jpg" width="400" height="200"></a>
+  <a href="http://www.somewebsite.com"> 
+  <img src="http://www.somewebsite.jpg" width="400" height="200"></a>
   
   <p>This is an un-ordered list</p>
   <ul>
